@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**danlarge/danlarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I provide strategic communications counsel in the public sphere, including data analysis, graphic design, proofreading, copy editing, and translation.<br><br>I am relatively new to the command line in Mac's Terminal, HomeBrew, Python, and GitHub. and have found all to be helpful in my work, but I want to become fluent in this area, rather than replying on cut-and-paste from other's work and generous advice.<br><br>Feel free to ask me about UK politics, political communication, German–English translation, and proof reading / copy editing!<br><br>Fun fact: I'm currently studying for and EMBA with Quantic School of Business Technology, and data privacy qualifications with the IAPP, as well as a TEFL qualification.
 
@@ -21,5 +18,3 @@ I provide strategic communications counsel in the public sphere, including data 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DPLarge) 
-
--->
